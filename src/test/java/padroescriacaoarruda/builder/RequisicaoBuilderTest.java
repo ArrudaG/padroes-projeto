@@ -3,7 +3,7 @@ package padroescriacaoarruda.builder;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-class EmpregadoBuilderTest {
+class RequisicaoBuilderTest {
 
     @Test
     void deveRetornarExcecaoEmpregadoSemCodigo() {
